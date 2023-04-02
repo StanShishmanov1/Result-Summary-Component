@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/results-summary-component-NYcyF1pkNr)
-- Live Site URL: [](https://stanshishmanov1.github.io/Result-Summary-Component/)
+- Solution URL: ["https://stanshishmanov1.github.io/Result-Summary-Component/"](https://www.frontendmentor.io/solutions/results-summary-component-NYcyF1pkNr)
+- Live Site URL: ["https://stanshishmanov1.github.io/Result-Summary-Component/"](https://stanshishmanov1.github.io/Result-Summary-Component/)
 
 ### Built with
 
